@@ -181,7 +181,7 @@
 
 <ol>
   <li>Download the latest HXUIPlus release</li>
-  <li>Remove the old <code>HXUI</code> or <code>XIUI</code> folder from your addons directory</li>
+<li>Recommended but not necessary; remove the old <code>HXUI</code> or <code>XIUI</code> folder from your addons directory</li>
   <li>Extract the new <code>HXUIPlus</code> folder into your addons directory</li>
   <li>Load the addon in-game with:</li>
 </ol>
