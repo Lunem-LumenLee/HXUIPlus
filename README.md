@@ -47,8 +47,7 @@
 </p>
 
 <p>
-  This replaces name-based targeting approaches that could fail or behave inconsistently,
-  providing fast and accurate enemy selection during combat.
+  Providing fast and accurate enemy selection during combat.
 </p>
 
 <p><strong>Demo:</strong></p>
