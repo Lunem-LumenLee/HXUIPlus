@@ -91,9 +91,7 @@
 
 <h3>Enemy List</h3>
 <ul>
-  <li>Name darkens when out of range</li>
-  <li>HP percent text darkens</li>
-  <li>HP bar switches to a dark gradient</li>
+  <li>Name, HP percent text and bar darkens when out of range</li>
 </ul>
 
 <h3>Target Bar</h3>
