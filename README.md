@@ -192,8 +192,4 @@
   Your existing settings will be detected and migrated automatically on first load.
 </p>
 
-<p>
-  HXUIPlus is designed to feel like <strong>HXUI as you already know it</strong> —
-  just smarter, faster, and more playable, especially for support-focused and
-  alliance-heavy gameplay.
-</p>
+
